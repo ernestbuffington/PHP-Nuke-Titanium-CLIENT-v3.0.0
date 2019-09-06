@@ -1,1 +1,0 @@
-ALTER TABLE `nuke_bbgroups` MODIFY `group_id` mediumint(8) NOT NULL AUTO_INCREMENT;
