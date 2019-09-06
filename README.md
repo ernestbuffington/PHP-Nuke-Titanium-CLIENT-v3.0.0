@@ -1,4 +1,4 @@
-# PHP-Nuke Titanium v3.0.0 CLIENT Files
+# PHP-Nuke Titanium v3.0.0 CVS Files
  Original Nuke-Evolution Xtreme 2.0.9e CORE Modified by **Ernest Allen Buffington**<br />
 <br /> 
 **Saying goodbye to Flash**<br />
