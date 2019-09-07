@@ -1,7 +1,7 @@
 # PHP-Nuke Titanium v3.0.0 CLIENT Files
 Original Nuke-Evolution Xtreme 2.0.9e Core<br /> 
-This is the Web Portal for **The Scorpion Network**<br /> 
 Modified by **Ernest Allen Buffington**<br />
+For the **client.86it.us** staging portal.<br />
 <br />
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fernestbuffington%2FNuke-Evolution-Xtreme-2.0.9e.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fernestbuffington%2FNuke-Evolution-Xtreme-2.0.9e?ref=badge_shield)
 <br /><br /> 
