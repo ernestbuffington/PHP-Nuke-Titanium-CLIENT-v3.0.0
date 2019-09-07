@@ -1,0 +1,8 @@
+{
+    "name": "ernestbuffington/PHP-Nuke-Titanium-CLIENT-v3.0.0",
+    "description": "CLIENT Files for CMS PHP-Nuke Titanum v3.0.0",
+    "require": {
+        "php": "^7.3",
+        "another-vendor/package": "1.*"
+    }
+}
