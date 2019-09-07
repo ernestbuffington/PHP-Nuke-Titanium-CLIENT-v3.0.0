@@ -1,6 +1,6 @@
 <?php
 /*=======================================================================
- Nuke-Evolution Xtreme: Enhanced PHP-Nuke Web Portal System
+ PHP-Nuke Titanium v3.0.0 CLIENT : Enhanced PHP-Nuke Web Portal System
  =======================================================================*/
 
 /************************************************************************/
@@ -41,15 +41,15 @@ $dbhost = 'localhost';
 /*----[ $dbname ] ----------------------------------------
 | The name of your database that will hold Evo's tables   |
 |                                                         |
-| Default: xxx_evo                                        |
+| Default: xxx_database                                   |
 ---------------------------------------------------------*/
-$dbname = 'xxx_network';
+$dbname = 'xxx_database';
 
 /*----[ $dbuname ] ---------------------------------------
 | The username linked to your database, must have correct |
 | permissions                                             |
 |                                                         |
-| Default: xxx_evo                                        |
+| Default: xxx_admin                                      |
 ---------------------------------------------------------*/
 $dbuname = 'xxx_admin';
 
@@ -67,7 +67,7 @@ $dbpass = '';
 |    - mysql (4.x or later)                               |
 |    - mysqli (PHP must be compiled with "System Mysql")  |
 |                                                         |
-| Default: mysql                                          |
+| Default: mysqli                                         |
 ---------------------------------------------------------*/
 $dbtype = 'mysqli';
 
